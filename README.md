@@ -31,6 +31,6 @@ Se quiser testar o fluxo localmente, siga estes passos simples:
 
 
 ### 2. Clonar o repositório
-```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+
+[https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/ygor14444/Repositorio-2-etapa.git)
 cd NOME_DO_REPOSITORIO
